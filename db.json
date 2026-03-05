@@ -1,0 +1,28 @@
+{
+  "menu": [
+    { "id": 1, "name": "Classic Burger", "description": "لحم بقري، خس، طماطم، جبنة وصوص خاص", "price": 120, "image": "https://images.unsplash.com/photo-1550547660-d9450f859349", "category": "Beef" },
+    { "id": 2, "name": "Cheese Burger", "description": "برجر جبنة مزدوجة", "price": 140, "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd", "category": "Beef" },
+    { "id": 3, "name": "Double Chicken", "description": "دجاج مقلي مع صوص", "price": 150, "image": "/assets/chickenDouble.jpg", "category": "Chicken" },
+    { "id": 4, "name": "Spicy Burger", "description": "لحم حار هالبينو", "price": 150, "image": "/assets/spicyBurger.jpg", "category": "Hot" },
+    { "id": 5, "name": "Fish Burger", "description": "فيليه سمك مقلي وصوص تارتار", "price": 145, "image": "/assets/fishBurger.jpg", "category": "Fish" },
+    { "id": 6, "name": "Mega Wahmy", "description": "3 طبقات لحم مع كل الإضافات", "price": 250, "image": "/assets/megaWahmy.jpg", "category": "Deals" },
+    { "id": 7, "name": "Veggie Burger", "description": "خضار وفاصوليا سوداء", "price": 100, "image": "/assets/veggieBURGER.jpg", "category": "Deals" },
+    { "id": 8, "name": "BBQ Bacon", "description": "لحم + بيكون + صوص باربكيو", "price": 170, "image": "/assets/BACON.jpg", "category": "Beef" },
+    { "id": 9, "name": "Crispy Chicken", "description": "دجاج مقرمش مع مخلل", "price": 130, "image": "/assets/crispyChicken.jpg", "category": "Chicken" },
+    { "id": 10, "name": "Coke", "description": "مشروب غازي", "price": 20, "image": "/assets/coke.jpg", "category": "Drinks" },
+    { "id": 11, "name": "Fanta", "description": "مشروب برتقالي غازي", "price": 20, "image": "/assets/fanta.jpg", "category": "Drinks" },
+    { "id": 12, "name": "Sprite", "description": "مشروب غازي", "price": 20, "image": "/assets/sprite.jpg", "category": "Drinks" },
+    { "id": 13, "name": "Pepsi", "description": "مشروب غازي", "price": 20, "image": "/assets/pepsi.jpg", "category": "Drinks" },
+    { "id": 14, "name": "Water", "description": "مياه معدنية", "price": 10, "image": "/assets/water.jpg", "category": "Drinks" },
+    { "id": 15, "name": "Lemonade", "description": "عصير ليمون طبيعي", "price": 25, "image": "/assets/lemonada.jpg", "category": "Drinks" },
+    { "id": 16, "name": "Orange Juice", "description": "عصير برتقال طازة", "price": 25, "image": "/assets/orange.jpg", "category": "Drinks" },
+    { "id": 17, "name": "Grilled Chicken", "description": "دجاج مشوي مع صوص مستردة", "price": 135, "image": "/assets/grilled.jpg", "category": "Chicken" },
+    { "id": 18, "name": "Blue Cheese Burger", "description": "برجر لحم مع جبنة بلو تشيز", "price": 175, "image": "/assets/CHEES.jpg", "category": "Beef" },
+    { "id": 19, "name": "Buffalo Chicken", "description": "دجاج مقرمش بصوص بوفالو", "price": 155, "image": "/assets/baflo.jpg", "category": "Chicken" },
+    { "id": 20, "name": "Turkey Burger", "description": "برجر ديك رومي صحي مع أفوكادو", "price": 140, "image": "/assets/turky.jpg", "category": "Beef" },
+    { "id": 21, "name": "Garlic Lovers", "description": "برجر لحم مع صوص ثوم كريمي", "price": 165, "image": "/assets/garlic.jpg", "category": "Hot" }
+  ],
+  "users": [
+    { "id": 1, "email": "test@test.com", "password": "123456" }
+  ]
+}
